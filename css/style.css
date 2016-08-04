@@ -1,0 +1,57 @@
+/* Inserta tu codigo aqui */
+h1{
+	text-align: center;
+}
+
+.titulo{
+	padding: 10px;
+}
+
+.linea1{
+	background: pink;
+	border-bottom: black 1px solid;
+}
+.linea2{
+	background: aqua;
+	border-bottom: black 1px solid;
+}
+.linea3{
+	background: red;
+	border-bottom: black 1px solid;
+}
+.linea4{
+	background: lime;
+	border-bottom: black 1px solid;
+}
+.linea5{
+	background: yellow;
+	border-bottom: black 1px solid;
+}
+.linea6{
+	background: gray;
+	border-bottom: black 1px solid;
+}
+.linea7{
+	background: beige;
+	border-bottom: black 1px solid;
+}
+.linea8{
+	background: brown;
+	border-bottom: black 1px solid;
+}
+.linea9{
+	background: orange;
+	border-bottom: black 1px solid;
+}
+.linea10{
+	background: violet;
+	border-bottom: black 1px solid;
+}
+.linea11{
+	background: olive;
+	border-bottom: black 1px solid;
+}
+.linea12{
+	background: purple;
+	border-bottom: black 1px solid;
+}
